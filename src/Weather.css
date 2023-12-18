@@ -5,7 +5,11 @@
   border-radius: 4px;
   color: rgb(135, 135, 135);
 }
-
+.Weather form{
+  display: flex;
+  justify-content: flex-end;
+}
+ 
 .Weather h1 {
   font-size: 24px;
   font-weight: 100;
